@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K41Chazz
-- 👀 I’m interested in you
-- 🌱 I’m currently learning everything at the same time
-- 💞️ I’m looking to collaborate on society
+- 👀 I’m interested in technology, languages and games
+- 🌱 I’m currently learning all the new technologies i can grasp without loosing my mind
+- 💞️ I’m looking to collaborate and simplify your workflow
 - 📫 How to reach me? ...
 
 <!---
