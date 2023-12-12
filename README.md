@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K41Chazz
+- 👋 Hi, I’m @K41Chazz aka as Daniel
 - 👀 I’m interested in technology, languages and games
 - 🌱 I’m currently learning all the new technologies i can grasp without loosing my mind
 - 💞️ I’m looking to collaborate and simplify your workflow
